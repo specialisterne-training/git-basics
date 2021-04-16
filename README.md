@@ -9,3 +9,4 @@ I dette repository kan du træne de meste almindelige funktioner i Git:
 - git push
 - git branch
 
+Dette repository bliver genetableret en gang i døgnet.
